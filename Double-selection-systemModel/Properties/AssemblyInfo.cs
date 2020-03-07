@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("Double-selection-systemBll")]
+[assembly: AssemblyTitle("Double-selection-systemModel")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Double-selection-systemBll")]
+[assembly: AssemblyProduct("Double-selection-systemModel")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("3ace57c4-77ca-4082-8962-75c494974d44")]
+[assembly: Guid("c95b30ae-35c6-42bd-b3b5-e875559121be")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
